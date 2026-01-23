@@ -142,7 +142,7 @@
     "redis": "^4.6.4",
     "remap-istanbul": "^0.13.0",
     "rimraf": "^4.1.2",
-    "sinon": "^15.0.1",
+    "sinon": "^21.0.1",
     "sinon-chai": "^3.7.0",
     "source-map-support": "^0.5.21",
     "sql.js": "^1.8.0",
